@@ -1,0 +1,8 @@
+title: X7Chat
+description: x7chat.github.io
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
